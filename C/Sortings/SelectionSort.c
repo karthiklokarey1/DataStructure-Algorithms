@@ -43,6 +43,8 @@ int  main()
 
   Time complexity --   O(n^2)
 
+  Space Complexity -- O(1)
+
   It never takes more thant O(n) swap operations . Useful when memory write is a costly operation.
 
   The above implementation is an unstable version of Selection Sort
